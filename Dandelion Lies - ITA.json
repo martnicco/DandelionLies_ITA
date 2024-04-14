@@ -4,5 +4,16 @@
   "artist": "NickEm",
   "author": "NickEm",
   "cover": "https://mangadex.org/covers/e0c54b19-7d15-4e20-949b-a83fe9702525/b62f7c6a-6ee6-4a8a-89f4-9f70f7a6dcc4.png.512.jpg",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "Hard Luck Woman",
+      "volume": "1",
+      "last_updated": "1699385880",
+      "groups": {
+        "": [
+          "https://cubari.moe/read/imgur/GeCPaXV/1/1/"
+        ]
+      }
+    }
+  }
 }
